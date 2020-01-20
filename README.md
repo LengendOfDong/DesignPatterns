@@ -1,1 +1,5 @@
 # DesignPatterns
+
+## Adapter
+
+## SimpleFactory
