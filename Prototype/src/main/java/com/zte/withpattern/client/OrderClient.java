@@ -9,7 +9,7 @@ import com.zte.withpattern.impl.PersonalOrder;
  * @date 2020/1/20
  */
 public class OrderClient {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         PersonalOrder op = new PersonalOrder();
 
         op.setOrderProductNum(2925);
