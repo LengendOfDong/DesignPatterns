@@ -1,5 +1,5 @@
 # DesignPatterns
-
+设计模式学习记录
 ## Adapter
 适配器模式
 
